@@ -8,6 +8,8 @@ Me chame quando quiser para participar de **projetos e desenvolver novas idéias
   
 ```javascript
 
+const otherTechs = await getGlobalTechs();
+
 const leo = {
   fullName: "Leonardo Elias de Oliveira",
   technologies: [
@@ -16,6 +18,7 @@ const leo = {
     "NodeJS",
     "React",
     "Python"
+    ...otherTechs
   ]
 }
 
