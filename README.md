@@ -1,10 +1,9 @@
 
 <div style="text-align:center">
-  <h1>Olá amigo, seja bem vindo ao meu humilde perfil</h1>
+  <h1>Olá amigo =)</h1>
 </div>
 
-Prazer, pode me chamar como Léo, atualmente sou estágiario e curioso em primeiro lugar...
-Me chame quando quiser para participar de **projetos e desenvolver novas idéias** e claro... Sinta-se **livre** para apreciar a arte em meus códigos aqui.
+Me chame quando quiser para participar de **projetos e desenvolver novas idéias** e claro... Sinta-se **livre** para apreciar a arte expressa em meus códigos aqui e ajuda-lo a evoluir com críticas, sugestões e comentários em novas issues.
   
 ```javascript
 
